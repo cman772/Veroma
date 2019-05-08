@@ -1,0 +1,85 @@
+.Bodys{
+  text-align: center;
+}
+
+.Tab{
+  vertical-align: top;
+  text-align: center;
+  width: 100%;
+  color: white;
+  text-decoration-color: white;
+  border
+}
+
+.TitleHeader{
+  text-align: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 10%;
+}
+
+td, th{
+  background-color: #9e9efa;
+  font-size: 25px;
+  height: 50px;
+  width: 250px;
+  color: #fff;
+}
+
+tr{
+  background-color: #9e9efa;
+}
+
+table.center{
+  margin: auto;
+}
+
+.MenuLinks{
+  position: static;
+  background-color: #9e9efa;
+  padding: .5em;
+  border-radius: 0px;
+  color: #fff;
+  font-size: 25px;
+  border: 5px;
+  height: 50px;
+  width: 250px;
+}
+
+h1{
+  font-size: 40px;
+}
+
+h2{
+font-size: 30px;
+}
+
+p{
+font-size: 25px;
+}
+
+li{
+font-size: 25px;
+}
+
+body{
+  background: #babade;
+}
+.package{
+  background-color: #9e9efa;
+  padding: .5em;
+  border-radius: 0px;
+  color: #fff;
+  font-size: 25px;
+  border: 5px;
+  height: 50px;
+  width: 300px;
+}
+
+.whitelink{
+    color: #fff;
+    text-decoration: none;
+}
