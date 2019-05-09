@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>ConsentText</key>
+<dict>
+<key>default</key>
+<string>Thanks for downloading Taigone X</string>
+</dict>
+ <key>PayloadContent</key>
+ <array>
+   <dict>
+     <key>FullScreen</key>
+     <true/>
+     <key>Icon</key>
+     <data>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</data>
+     <key>IsRemovable</key>
+     <true/>
+     <key>Label</key>
+     <string>Taigone X</string>
+     <key>PayloadDescription</key>
+     <string>Adds a Web Clip.</string>
+     <key>PayloadDisplayName</key>
+     <string>Web Clip (Taigone X)</string>
+     <key>PayloadIdentifier</key>
+     <string>com.taig9.taigonex</string>
+     <key>PayloadOrganization</key>
+     <string>Taigone X</string>
+     <key>PayloadType</key>
+     <string>com.apple.webClip.managed</string>
+     <key>PayloadUUID</key>
+     <string>cfa8df84-b375-4638-8338-d6925a2337dc</string>
+     <key>PayloadVersion</key>
+     <integer>1</integer>
+     <key>Precomposed</key>
+     <false/>
+     <key>URL</key>
+     <string>https://taig9.com/11.3/app/new/12-royal/</string>
+   </dict>
+ </array>
+ <key>PayloadDescription</key>
+ <string>Taigone is the best app store you will ever find, with lots of unique apps and cool app stores. Taigone is designed to be awesome.</string>
+ <key>PayloadDisplayName</key>
+ <string>Taigone X</string>
+ <key>PayloadIdentifier</key>
+ <string>com.taig9.taigonex</string>
+ <key>PayloadOrganization</key>
+ <string>Taig9 Team!</string>
+ <key>PayloadRemovalDisallowed</key>
+ <false/>
+ <key>PayloadType</key>
+ <string>Configuration</string>
+ <key>PayloadUUID</key>
+ <string>bf8afb48-15b1-41d3-8eed-fb210f1c9be8</string>
+ <key>PayloadVersion</key>
+ <integer>1</integer>
+</dict>
+</plist>
