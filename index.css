@@ -1,5 +1,6 @@
 .Bodys{
   text-align: center;
+  font-size: .8em;
 }
 
 .Tab{
@@ -41,26 +42,27 @@ table {
 
 .MenuLinks{
   position: static;
-  background-color: #9e9efa;
+  background-color: #e6e6e6;
   padding: .5em;
-  border-radius: 0px;
+  border-radius: .4em;
   color: #fff;
-  font-size: 25px;
-  border: 5px;
-  height: 50px;
-  width: 250px;
+  font-size: 1.5em;
+  border: .2em;
+  height: 2em;
+  width: 8.3em;
+  color: black;
 }
 
 h1{
-  font-size: 40px;
+  font-size: 3.3em;
 }
 
 h2{
-font-size: 30px;
+font-size: 2em;
 }
 
 p{
-font-size: 25px;
+font-size: 1.65em;
 }
 
 li{
@@ -68,7 +70,8 @@ font-size: 25px;
 }
 
 body{
-  background: #babade;
+  background-color: rgb(242, 242, 242);
+  font-family: 'Open Sans', sans-serif;
 }
 .package{
   background-color: #9e9efa;
@@ -82,7 +85,7 @@ body{
 }
 
 a{
-    color: #fff;
+    color: #2d2d2d;
     text-decoration: none;
     text-align: center;
 }
